@@ -25,8 +25,8 @@ This example demonstrates:
 1. Clone the repository
 
    ```sh
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/Lilanga/paseto-token-generation-validation.git
+   cd paseto-token-generation-validation
    ```
 
 2. Install dependencies for both microservices
