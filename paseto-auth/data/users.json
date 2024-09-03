@@ -1,0 +1,5 @@
+[
+  { "id": 1, "username": "user1", "password": "$2a$12$yskbmdg8DZaVJnqfdn2Lvu96hTtNAhajPVST69sX7ovf/3ZVhE8mS" },
+  { "id": 2, "username": "user2", "password": "$2b$10$gQCq6KLH9mxnX7jAbHyweHbQ6kHSLjNwlA2MbAK9yQnSW5Ld1A3." },
+  { "id": 3, "username": "user3", "password": "$2b$10$gQCq6KLH9mxnX7jAbHyweHbQ6kHSLjNwlA2MbAK9yQnSW5Ld1A3." }
+]
